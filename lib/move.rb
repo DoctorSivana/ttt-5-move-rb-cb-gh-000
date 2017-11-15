@@ -15,7 +15,7 @@ end
 
 def move(board , index , argu = "X")
   board[index - 1] = argu
-  
+
 
 
 end
